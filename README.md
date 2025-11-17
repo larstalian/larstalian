@@ -1,4 +1,4 @@
-# Hey, I’m Lars “Talian” Stangebye-Hansen
+# Hey, I’m Lars Talian
 
 Rust / C++ systems engineer working on real-time robotics, ML infrastructure, and data platforms. I study **Computer Science at NTNU** (M.Sc.) and will be on exchange at **UC Berkeley**.
 
