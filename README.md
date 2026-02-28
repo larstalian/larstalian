@@ -7,4 +7,4 @@ i like shipping practical things that work outside demos.
 
 hmu if you want to build something cool.
 
-[linkedin](https://www.linkedin.com/in/larstalian)· [email](mailto:larstalian@berkeley.edu)
+[email](mailto:larstalian@berkeley.edu)
